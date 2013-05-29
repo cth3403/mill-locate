@@ -1,0 +1,550 @@
+main({
+	"Sydney Jones Library": {
+							"monograph": {
+								"A" : {
+									"fullLocn" : "Abercromby Store 1 (Basement) ST23",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-aber-basement.jpg"
+									},
+								"B" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"C" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"D" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"D2" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"E" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"F" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"G" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"G" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"H" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"I" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"J" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"K" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"L" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"M" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"M2" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"N" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"O" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"P" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Q" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"R" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"S" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"T" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"U" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"V" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"W" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"X" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Y" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Z" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"LAW" : {
+									"fullLocn" : "Law Collection Abercromby Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-aber-first.jpg"
+									},
+								"LAW2" : {
+									"fullLocn" : "Law Collection Abercromby Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-aber-second.jpg"
+									},
+								"BUF" : {
+									"fullLocn" : "BUFVC DVDs",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-aber-ground.jpg"
+									},
+								"FIL" : {
+									"fullLocn" : "Films & Recordings",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-aber-ground.jpg"
+									}
+								},
+							"serial":	{
+								"A" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"B" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"C" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"D" : {
+									"fullLocn" : "Grove Wing Ground Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-ground.jpg"
+									},
+								"D2" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"E" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"F" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"G" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"G" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"H" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"I" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"J" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"K" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"L" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"M" : {
+									"fullLocn" : "Grove Wing First Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-first.jpg"
+									},
+								"M2" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"N" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"O" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"P" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Q" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"R" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"S" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"T" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"U" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"V" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"W" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"X" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Y" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									},
+								"Z" : {
+									"fullLocn" : "Grove Wing Second Floor",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/sjl-grove-second.jpg"
+									}
+								}
+	},
+	"Harold Cohen Library":	{
+							"monograph": {
+								 "0" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "1" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "2" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "3" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "4" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "5" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "6" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "7" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "8" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "9" : {
+									"fullLocn" : "Stack Floor 4",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack4.jpg"
+									},
+								 "A" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "B" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "C" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "D" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "E" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "F" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "G" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "H" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "I" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "J" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "K" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "L" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "M" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "N" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "O" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "P" : {
+									"fullLocn" : "Silent/Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "Q" : {
+									"fullLocn" : "Main Reading Room",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-central-first.jpg"
+									},
+								 "Q2" : {
+									"fullLocn" : "Stack Floor 5",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack5.jpg"
+									},
+								 "R" : {
+									"fullLocn" : "Stack Floor 5",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack5.jpg"
+									},
+								 "R2" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "S" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "S2" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "T" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "U" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "V" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "W" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "X" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "Y" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "Z" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									}				
+								 },
+							"serial":	{
+								 "B" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "C" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "D" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "E" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "F" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "G" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "H" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "I" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "J" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "K" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "L" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "M" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "N" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "O" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "P" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "Q" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "Q2" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "Q2A" : {
+									"fullLocn" : "Stack Floor 1",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg"
+									},
+								 "Q3" : {
+									"fullLocn" : "Stack Floor 3",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack3.jpg"
+									},
+								 "Q3A" : {
+									"fullLocn" : "Stack Floor 1 and Stack Floor 3",
+									"locnURL" : ["http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack1.jpg","http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack3.jpg"]
+									},
+								 "Q4" : {
+									"fullLocn" : "Stack Floor 3",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack3.jpg"
+									},
+								 "Q4A" : {
+									"fullLocn" : "Stack Floor 3 and Stack Floor 6",
+									"locnURL" : ["http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack3.jpg","http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"]
+									},
+								 "Q5" : {
+									"fullLocn" : "Stack Floor 6",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg"
+									},
+								 "Q5A" : {
+									"fullLocn" : "Stack Floor 6 and Stack Floor 7",
+									"locnURL" : ["http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack6.jpg","http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack7.jpg"]
+									},
+								 "Q6" : {
+									"fullLocn" : "Stack Floor 7",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack7.jpg"
+									},
+								 "R" : {
+									"fullLocn" : "Stack Floor 7",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack7.jpg"
+									},
+								 "R2" : {
+									"fullLocn" : "Stack Floor 7",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack7.jpg"
+									},
+								 "R2A" : {
+									"fullLocn" : "Stack Floor 7",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack7.jpg"
+									},
+								 "R3" :  {
+									"fullLocn" : "Stack Floor 8",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack8.jpg"
+									},
+								 "S" : {
+									"fullLocn" : "Stack Floor 8",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack8.jpg"
+									},
+								 "T" : {
+									"fullLocn" : "Stack Floor 8",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack8.jpg"
+									},
+								 "U" : {
+									"fullLocn" : "Stack Floor 8",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack8.jpg"
+									},
+								 "V" : {
+									"fullLocn" : "Stack Floor 8",
+									"locnURL" : "http://lgimages.s3.amazonaws.com/data/imagemanager/30588/hcl-stack8.jpg"
+									}					 
+								 }
+	}
+});

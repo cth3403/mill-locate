@@ -1,0 +1,70 @@
+exp({
+	"Sydney Jones Library": {
+							"monograph": {	"DQ" : {
+										    	    "number" : "0",
+										    	    "newCls" : "D2"
+										    	   },
+											"ML" : {
+													"number" : "200",
+													"newCls" : "M2"
+												   }								
+										  },
+							"serial":	{
+											"DQ" : {
+										    	    "number" : "0",
+										    	    "newCls" : "D2"
+										    	   },
+											"ML" : {
+													"number" : "200",
+													"newCls" : "M2"
+												   }
+										}
+							},
+	"Harold Cohen Library": {
+							"monograph": {
+											"QA" : {
+										    	    "number" : "152",
+										    	    "newCls" : "Q2"
+										    	   },
+											"RC" : {
+													"number" : "1",
+													"newCls" : "R2"
+												   },
+											"SF" : {
+													"number" : "771",
+													"newCls" : "S2"
+												   }
+								},
+							"serial":	{
+											"QA" : {
+										    	    "number" : "75",
+										    	    "newCls" : "Q2A"
+										    	   },
+											"QE" : {
+													"number" : "1",
+													"newCls" : "Q3A"
+												   },
+											"QH" : {
+													"number" : "506",
+													"newCls" : "Q4"
+												   },
+											"QL" : {
+													"number" : "1",
+													"newCls" : "Q4A"
+												   },
+											"QP" : {
+													"number" : "552",
+													"newCls" : "Q5A"
+												   },
+											"RA" : {
+													"number" : "1051",
+													"newCls" : "R2"
+												   },
+											"RK" : {
+													"number" : "60",
+													"newCls" : "R2"
+												   }
+
+										}						
+		}
+});
